@@ -1,5 +1,5 @@
 ### Hi there! 👋
-#### My name is Noah Smith. I'm an up and coming software developer with the skills and confidence to succeed. I specialize in JavaScript, CSS, and HTML. I have a great passion for technology, and I have a strong history of IT and customer service in addition to software development. I have been using computers every since I was a young child and have always dreamed of using them to create something special. Now I'd like to use my skills as a software developer to do that for you!
+#### My name is Noah Smith. I'm an up and coming software developer specializing in JavaScript, CSS, and HTML. I have a great passion for technology, and I have a strong history of IT and customer service in addition to software development. I've always been into tech and gaming and finally made the leap to do it full time. Now I'd like to use my skills as a software developer to do that for you!
 
 #### You can reach me at [my email address](mailto:noahcsmith1993@gmail.com) if you'd like to contact me. My inbox is always open!
 
